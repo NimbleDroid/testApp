@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/ilya/testApp/E:\\NimbleDroid\\testApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "/Users/ilya/testApp/C:\\Users\\server\\.android\\build-cache\\ae1121d68720b84f4eaf7eda12e3adbbf06349b8\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "/Users/ilya/testApp/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/Users/ilya/.android/build-cache/03399caffba9be1199853494040be51f8c85c7cd/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/Users/ilya/testApp/E:\\NimbleDroid\\testApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "/Users/ilya/testApp/C:\\Users\\server\\.android\\build-cache\\ae1121d68720b84f4eaf7eda12e3adbbf06349b8\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/Users/ilya/testApp/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/Users/ilya/.android/build-cache/03399caffba9be1199853494040be51f8c85c7cd/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    }
+]

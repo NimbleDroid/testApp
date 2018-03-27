@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "/Users/ilya/testApp/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/ilya/.android/build-cache/717ce10e97772b6c2f8def8fbd2cc2d8a64d1629/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/ilya/testApp/E:\\NimbleDroid\\testApp\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\design_tint_password_toggle.xml",
+        "source": "/Users/ilya/testApp/C:\\Users\\server\\.android\\build-cache\\ae1121d68720b84f4eaf7eda12e3adbbf06349b8\\output\\res\\color-v23\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/ilya/testApp/E:\\NimbleDroid\\testApp\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "/Users/ilya/testApp/C:\\Users\\server\\.android\\build-cache\\5c9379319aa87756bc9573e39a955e4e8a55ebd2\\output\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/ilya/testApp/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/ilya/.android/build-cache/717ce10e97772b6c2f8def8fbd2cc2d8a64d1629/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/ilya/testApp/E:\\NimbleDroid\\testApp\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
+        "source": "/Users/ilya/testApp/C:\\Users\\server\\.android\\build-cache\\5c9379319aa87756bc9573e39a955e4e8a55ebd2\\output\\res\\color-v23\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/ilya/testApp/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/ilya/.android/build-cache/717ce10e97772b6c2f8def8fbd2cc2d8a64d1629/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/ilya/testApp/E:\\NimbleDroid\\testApp\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_thumb.xml",
+        "source": "/Users/ilya/testApp/C:\\Users\\server\\.android\\build-cache\\5c9379319aa87756bc9573e39a955e4e8a55ebd2\\output\\res\\color-v23\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/ilya/testApp/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/ilya/.android/build-cache/717ce10e97772b6c2f8def8fbd2cc2d8a64d1629/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/ilya/testApp/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/ilya/.android/build-cache/717ce10e97772b6c2f8def8fbd2cc2d8a64d1629/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/ilya/testApp/E:\\NimbleDroid\\testApp\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "/Users/ilya/testApp/C:\\Users\\server\\.android\\build-cache\\5c9379319aa87756bc9573e39a955e4e8a55ebd2\\output\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/ilya/testApp/E:\\NimbleDroid\\testApp\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_text_material.xml",
+        "source": "/Users/ilya/testApp/C:\\Users\\server\\.android\\build-cache\\5c9379319aa87756bc9573e39a955e4e8a55ebd2\\output\\res\\color-v23\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/ilya/testApp/E:\\NimbleDroid\\testApp\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
+        "source": "/Users/ilya/testApp/C:\\Users\\server\\.android\\build-cache\\5c9379319aa87756bc9573e39a955e4e8a55ebd2\\output\\res\\color-v23\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/ilya/testApp/E:\\NimbleDroid\\testApp\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/ilya/testApp/C:\\Users\\server\\.android\\build-cache\\5c9379319aa87756bc9573e39a955e4e8a55ebd2\\output\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/ilya/testApp/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/ilya/.android/build-cache/717ce10e97772b6c2f8def8fbd2cc2d8a64d1629/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/ilya/testApp/E:\\NimbleDroid\\testApp\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "/Users/ilya/testApp/C:\\Users\\server\\.android\\build-cache\\5c9379319aa87756bc9573e39a955e4e8a55ebd2\\output\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/ilya/testApp/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/Users/ilya/.android/build-cache/03399caffba9be1199853494040be51f8c85c7cd/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/ilya/testApp/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/ilya/.android/build-cache/717ce10e97772b6c2f8def8fbd2cc2d8a64d1629/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/ilya/testApp/E:\\NimbleDroid\\testApp\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
+        "source": "/Users/ilya/testApp/C:\\Users\\server\\.android\\build-cache\\5c9379319aa87756bc9573e39a955e4e8a55ebd2\\output\\res\\color-v23\\abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/ilya/testApp/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/ilya/.android/build-cache/717ce10e97772b6c2f8def8fbd2cc2d8a64d1629/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/ilya/testApp/E:\\NimbleDroid\\testApp\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
+        "source": "/Users/ilya/testApp/C:\\Users\\server\\.android\\build-cache\\5c9379319aa87756bc9573e39a955e4e8a55ebd2\\output\\res\\color-v23\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/ilya/testApp/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/ilya/.android/build-cache/717ce10e97772b6c2f8def8fbd2cc2d8a64d1629/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/ilya/testApp/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/ilya/.android/build-cache/717ce10e97772b6c2f8def8fbd2cc2d8a64d1629/output/res/color-v23/abc_tint_spinner.xml"
+    }
+]

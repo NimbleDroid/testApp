@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/ilya/testApp/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/ilya/.android/build-cache/717ce10e97772b6c2f8def8fbd2cc2d8a64d1629/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/ilya/testApp/E:\\NimbleDroid\\testApp\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/ilya/testApp/C:\\Users\\server\\.android\\build-cache\\5c9379319aa87756bc9573e39a955e4e8a55ebd2\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/ilya/testApp/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/ilya/.android/build-cache/717ce10e97772b6c2f8def8fbd2cc2d8a64d1629/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/ilya/testApp/E:\\NimbleDroid\\testApp\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/ilya/testApp/C:\\Users\\server\\.android\\build-cache\\5c9379319aa87756bc9573e39a955e4e8a55ebd2\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    }
+]

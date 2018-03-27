@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ilya/testApp/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/ilya/testApp/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ilya/testApp/E:\\NimbleDroid\\testApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "/Users/ilya/testApp/E:\\NimbleDroid\\testApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]

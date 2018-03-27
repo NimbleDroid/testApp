@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="output"><source path="/Users/ilya/.android/build-cache/e0f20d16363d4fc73fe89eed980433a86775b0b0/output/assets"/></dataSet><dataSet config="main"><source path="/Users/ilya/testApp/app/src/androidTest/assets"/><source path="/Users/ilya/testApp/app/build/generated/assets/shaders/androidTest/debug"/></dataSet></merger>

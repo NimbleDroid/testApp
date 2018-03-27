@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "/Users/ilya/testApp/E:\\NimbleDroid\\testApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/ilya/testApp/C:\\Users\\server\\.android\\build-cache\\5c9379319aa87756bc9573e39a955e4e8a55ebd2\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/ilya/testApp/E:\\NimbleDroid\\testApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "/Users/ilya/testApp/C:\\Users\\server\\.android\\build-cache\\5c9379319aa87756bc9573e39a955e4e8a55ebd2\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/ilya/testApp/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/ilya/.android/build-cache/717ce10e97772b6c2f8def8fbd2cc2d8a64d1629/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/ilya/testApp/E:\\NimbleDroid\\testApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "/Users/ilya/testApp/C:\\Users\\server\\.android\\build-cache\\ae1121d68720b84f4eaf7eda12e3adbbf06349b8\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/ilya/testApp/E:\\NimbleDroid\\testApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "/Users/ilya/testApp/C:\\Users\\server\\.android\\build-cache\\ae1121d68720b84f4eaf7eda12e3adbbf06349b8\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/ilya/testApp/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/ilya/.android/build-cache/717ce10e97772b6c2f8def8fbd2cc2d8a64d1629/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/ilya/testApp/E:\\NimbleDroid\\testApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "/Users/ilya/testApp/C:\\Users\\server\\.android\\build-cache\\5c9379319aa87756bc9573e39a955e4e8a55ebd2\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/ilya/testApp/E:\\NimbleDroid\\testApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "/Users/ilya/testApp/C:\\Users\\server\\.android\\build-cache\\ae1121d68720b84f4eaf7eda12e3adbbf06349b8\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/ilya/testApp/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/ilya/.android/build-cache/717ce10e97772b6c2f8def8fbd2cc2d8a64d1629/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/ilya/testApp/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/ilya/.android/build-cache/717ce10e97772b6c2f8def8fbd2cc2d8a64d1629/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/ilya/testApp/E:\\NimbleDroid\\testApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "/Users/ilya/testApp/C:\\Users\\server\\.android\\build-cache\\5c9379319aa87756bc9573e39a955e4e8a55ebd2\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/ilya/testApp/E:\\NimbleDroid\\testApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "/Users/ilya/testApp/C:\\Users\\server\\.android\\build-cache\\ae1121d68720b84f4eaf7eda12e3adbbf06349b8\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/ilya/testApp/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/ilya/.android/build-cache/717ce10e97772b6c2f8def8fbd2cc2d8a64d1629/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/ilya/testApp/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/ilya/.android/build-cache/717ce10e97772b6c2f8def8fbd2cc2d8a64d1629/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/ilya/testApp/E:\\NimbleDroid\\testApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "/Users/ilya/testApp/C:\\Users\\server\\.android\\build-cache\\5c9379319aa87756bc9573e39a955e4e8a55ebd2\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/ilya/testApp/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/ilya/.android/build-cache/03399caffba9be1199853494040be51f8c85c7cd/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/ilya/testApp/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/Users/ilya/.android/build-cache/03399caffba9be1199853494040be51f8c85c7cd/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/ilya/testApp/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/ilya/.android/build-cache/717ce10e97772b6c2f8def8fbd2cc2d8a64d1629/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/ilya/testApp/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/ilya/.android/build-cache/717ce10e97772b6c2f8def8fbd2cc2d8a64d1629/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/ilya/testApp/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/ilya/.android/build-cache/03399caffba9be1199853494040be51f8c85c7cd/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/ilya/testApp/E:\\NimbleDroid\\testApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "/Users/ilya/testApp/C:\\Users\\server\\.android\\build-cache\\ae1121d68720b84f4eaf7eda12e3adbbf06349b8\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/ilya/testApp/E:\\NimbleDroid\\testApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "/Users/ilya/testApp/C:\\Users\\server\\.android\\build-cache\\5c9379319aa87756bc9573e39a955e4e8a55ebd2\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/ilya/testApp/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/ilya/.android/build-cache/03399caffba9be1199853494040be51f8c85c7cd/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/ilya/testApp/E:\\NimbleDroid\\testApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "/Users/ilya/testApp/C:\\Users\\server\\.android\\build-cache\\ae1121d68720b84f4eaf7eda12e3adbbf06349b8\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "/Users/ilya/testApp/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/ilya/.android/build-cache/03399caffba9be1199853494040be51f8c85c7cd/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/ilya/testApp/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/Users/ilya/.android/build-cache/03399caffba9be1199853494040be51f8c85c7cd/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/Users/ilya/testApp/E:\\NimbleDroid\\testApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "/Users/ilya/testApp/C:\\Users\\server\\.android\\build-cache\\5c9379319aa87756bc9573e39a955e4e8a55ebd2\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/ilya/testApp/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/ilya/.android/build-cache/717ce10e97772b6c2f8def8fbd2cc2d8a64d1629/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/ilya/testApp/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/ilya/.android/build-cache/717ce10e97772b6c2f8def8fbd2cc2d8a64d1629/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/ilya/testApp/E:\\NimbleDroid\\testApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "/Users/ilya/testApp/C:\\Users\\server\\.android\\build-cache\\5c9379319aa87756bc9573e39a955e4e8a55ebd2\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/ilya/testApp/E:\\NimbleDroid\\testApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/ilya/testApp/C:\\Users\\server\\.android\\build-cache\\5c9379319aa87756bc9573e39a955e4e8a55ebd2\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/ilya/testApp/E:\\NimbleDroid\\testApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "/Users/ilya/testApp/C:\\Users\\server\\.android\\build-cache\\5c9379319aa87756bc9573e39a955e4e8a55ebd2\\output\\res\\anim\\abc_popup_enter.xml"
+    }
+]

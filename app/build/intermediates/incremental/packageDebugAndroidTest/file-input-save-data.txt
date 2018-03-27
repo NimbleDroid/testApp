@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Tue Mar 27 16:26:48 EDT 2018
+2.base=/Users/ilya/testApp/app/build/intermediates/transforms/mergeJavaRes/androidTest/debug/jars/2/1f/main.jar
+5.file=/Users/ilya/testApp/app/build/intermediates/transforms/mergeJavaRes/androidTest/debug/jars/2/1f/main.jar/LICENSE-junit.txt
+5.set=JAVA_RESOURCE
+3.base=/Users/ilya/testApp/app/build/intermediates/transforms/mergeJavaRes/androidTest/debug/jars/2/1f/main.jar
+6.file=/Users/ilya/testApp/app/build/intermediates/transforms/mergeJavaRes/androidTest/debug/folders/2/1f/main/META-INF/services/com.google.protobuf.GeneratedExtensionRegistryLoader
+2.set=JAVA_RESOURCE
+4.base=/Users/ilya/testApp/app/build/intermediates/transforms/dex/androidTest/debug/folders/1000/1f/main
+7.file=/Users/ilya/testApp/app/build/intermediates/transforms/mergeJavaRes/androidTest/debug/folders/2/1f/main/META-INF/services/org.xmlpull.v1.XmlPullParserFactory
+7.set=JAVA_RESOURCE
+count=8
+0.file=/Users/ilya/testApp/app/build/intermediates/transforms/mergeJavaRes/androidTest/debug/jars/2/1f/main.jar/junit/runner/smalllogo.gif
+5.base=/Users/ilya/testApp/app/build/intermediates/transforms/mergeJavaRes/androidTest/debug/jars/2/1f/main.jar
+4.set=DEX
+6.base=/Users/ilya/testApp/app/build/intermediates/transforms/mergeJavaRes/androidTest/debug/folders/2/1f/main
+1.file=/Users/ilya/testApp/app/build/intermediates/res/resources-debug-androidTest.ap_/AndroidManifest.xml
+1.set=ANDROID_RESOURCE
+7.base=/Users/ilya/testApp/app/build/intermediates/transforms/mergeJavaRes/androidTest/debug/folders/2/1f/main
+2.file=/Users/ilya/testApp/app/build/intermediates/transforms/mergeJavaRes/androidTest/debug/jars/2/1f/main.jar/protobuf.meta
+6.set=JAVA_RESOURCE
+0.base=/Users/ilya/testApp/app/build/intermediates/transforms/mergeJavaRes/androidTest/debug/jars/2/1f/main.jar
+3.file=/Users/ilya/testApp/app/build/intermediates/transforms/mergeJavaRes/androidTest/debug/jars/2/1f/main.jar/junit/runner/logo.gif
+3.set=JAVA_RESOURCE
+1.base=/Users/ilya/testApp/app/build/intermediates/res/resources-debug-androidTest.ap_
+4.file=/Users/ilya/testApp/app/build/intermediates/transforms/dex/androidTest/debug/folders/1000/1f/main/classes.dex
+0.set=JAVA_RESOURCE

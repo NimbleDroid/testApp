@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\server\.android\build-cache\7cfeb778798890184fcf75dddf0f1cf105dc3607\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ece701a759b4dd2005a8467388d5fca5b13e65e">
+        <dex dex="E:\NimbleDroid\test1\espreddit\app\build\intermediates\pre-dexed\androidTest\debug\classes_07c06daac162cf9266832ef161cb6d0f600e2dd1.jar" />
+    </item>
+
+</items>

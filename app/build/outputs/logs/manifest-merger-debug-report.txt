@@ -1,0 +1,78 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ilya/testApp/app/src/main/AndroidManifest.xml:1:1-13:12
+	package
+		ADDED from /Users/ilya/testApp/app/src/main/AndroidManifest.xml:2:5-43
+		INJECTED from /Users/ilya/testApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ilya/testApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ilya/testApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ilya/testApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ilya/testApp/app/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		INJECTED from /Users/ilya/testApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ilya/testApp/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/ilya/testApp/app/src/main/AndroidManifest.xml:4:5-11:19
+MERGED from [com.android.support:design:25.4.0] /Users/ilya/.android/build-cache/03399caffba9be1199853494040be51f8c85c7cd/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:25.4.0] /Users/ilya/.android/build-cache/717ce10e97772b6c2f8def8fbd2cc2d8a64d1629/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /Users/ilya/.android/build-cache/a187e9c3a41e2cab9362a35bc5537abaf66a1e19/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /Users/ilya/.android/build-cache/bc68c661573e83db173d6ec67a0de550002e3fd6/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /Users/ilya/.android/build-cache/4ffc317a6a89b30e7439d518e1900dad59cfdb32/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:25.4.0] /Users/ilya/.android/build-cache/ec4556ff25449cf65f72f211b98dd43526cbe6cc/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:25.4.0] /Users/ilya/.android/build-cache/4cfdfaeb40284638944fa7ab68ace89ad09ab6f2/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:25.4.0] /Users/ilya/.android/build-cache/7ad1d03dbcdb0c606f89d63bb7ce71cf2343099f/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] /Users/ilya/.android/build-cache/565ce04edcfc91fe24bff03b4343aabd8ca9d1cb/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:25.4.0] /Users/ilya/.android/build-cache/89485bdfa11e5b9145f0a1357abe12eaef5005c6/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] /Users/ilya/.android/build-cache/139ddf2a5e94356eba3c5e3b1eaa59487da86281/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] /Users/ilya/.android/build-cache/0b73121f955809559603fa7ff8d64a8c8912d3ac/output/AndroidManifest.xml:25:5-29:19
+	android:label
+		ADDED from /Users/ilya/testApp/app/src/main/AndroidManifest.xml:7:9-41
+	android:supportsRtl
+		ADDED from /Users/ilya/testApp/app/src/main/AndroidManifest.xml:8:9-35
+	android:allowBackup
+		ADDED from /Users/ilya/testApp/app/src/main/AndroidManifest.xml:5:9-35
+	android:icon
+		ADDED from /Users/ilya/testApp/app/src/main/AndroidManifest.xml:6:9-43
+	android:theme
+		ADDED from /Users/ilya/testApp/app/src/main/AndroidManifest.xml:9:9-47
+uses-sdk
+INJECTED from /Users/ilya/testApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.4.0] /Users/ilya/.android/build-cache/03399caffba9be1199853494040be51f8c85c7cd/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.4.0] /Users/ilya/.android/build-cache/717ce10e97772b6c2f8def8fbd2cc2d8a64d1629/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /Users/ilya/.android/build-cache/a187e9c3a41e2cab9362a35bc5537abaf66a1e19/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /Users/ilya/.android/build-cache/bc68c661573e83db173d6ec67a0de550002e3fd6/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /Users/ilya/.android/build-cache/4ffc317a6a89b30e7439d518e1900dad59cfdb32/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.4.0] /Users/ilya/.android/build-cache/ec4556ff25449cf65f72f211b98dd43526cbe6cc/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.4.0] /Users/ilya/.android/build-cache/4cfdfaeb40284638944fa7ab68ace89ad09ab6f2/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.4.0] /Users/ilya/.android/build-cache/7ad1d03dbcdb0c606f89d63bb7ce71cf2343099f/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.4.0] /Users/ilya/.android/build-cache/565ce04edcfc91fe24bff03b4343aabd8ca9d1cb/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.4.0] /Users/ilya/.android/build-cache/89485bdfa11e5b9145f0a1357abe12eaef5005c6/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.4.0] /Users/ilya/.android/build-cache/139ddf2a5e94356eba3c5e3b1eaa59487da86281/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.4.0] /Users/ilya/.android/build-cache/0b73121f955809559603fa7ff8d64a8c8912d3ac/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.4.0] /Users/ilya/.android/build-cache/03399caffba9be1199853494040be51f8c85c7cd/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/ilya/testApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ilya/testApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ilya/testApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ilya/testApp/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.4.0] /Users/ilya/.android/build-cache/03399caffba9be1199853494040be51f8c85c7cd/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:25.4.0] /Users/ilya/.android/build-cache/717ce10e97772b6c2f8def8fbd2cc2d8a64d1629/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /Users/ilya/.android/build-cache/a187e9c3a41e2cab9362a35bc5537abaf66a1e19/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /Users/ilya/.android/build-cache/bc68c661573e83db173d6ec67a0de550002e3fd6/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /Users/ilya/.android/build-cache/4ffc317a6a89b30e7439d518e1900dad59cfdb32/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:25.4.0] /Users/ilya/.android/build-cache/ec4556ff25449cf65f72f211b98dd43526cbe6cc/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:25.4.0] /Users/ilya/.android/build-cache/4cfdfaeb40284638944fa7ab68ace89ad09ab6f2/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:25.4.0] /Users/ilya/.android/build-cache/7ad1d03dbcdb0c606f89d63bb7ce71cf2343099f/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] /Users/ilya/.android/build-cache/565ce04edcfc91fe24bff03b4343aabd8ca9d1cb/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:25.4.0] /Users/ilya/.android/build-cache/89485bdfa11e5b9145f0a1357abe12eaef5005c6/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] /Users/ilya/.android/build-cache/139ddf2a5e94356eba3c5e3b1eaa59487da86281/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] /Users/ilya/.android/build-cache/0b73121f955809559603fa7ff8d64a8c8912d3ac/output/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:25.4.0] /Users/ilya/.android/build-cache/03399caffba9be1199853494040be51f8c85c7cd/output/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:25.4.0] /Users/ilya/.android/build-cache/03399caffba9be1199853494040be51f8c85c7cd/output/AndroidManifest.xml:27:13-51
